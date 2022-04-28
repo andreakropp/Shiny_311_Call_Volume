@@ -1,0 +1,11 @@
+name: forecasting_311_call_volume
+title:
+username:
+account: lifeisgood
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6193817
+bundleId: 5848043
+url: https://lifeisgood.shinyapps.io/forecasting_311_call_volume/
+when: 1651171336.48219
+lastSyncTime: 1651171336.48221
